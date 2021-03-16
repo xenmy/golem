@@ -20,4 +20,3 @@ http://golem.example.com/hogehoge/fugafuga.html -> ${AZURE_STORAGE_ACCOUNT}/${AZ
 - Not support TLS termination
 - Not support index file serving
 - Experimental quality
-- 
